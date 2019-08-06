@@ -1,5 +1,3 @@
-README 
-
 All the examples have been run with Matlab R2016b. 
 
 The main script is main.m, where the user specifies a gap width in nanometers, an incident wavelength in microns and a value for the b factor that multiplies beta^2 (b=0 is LRA, and b=1,1.5 have been used for the paper). This is the only routine that needs to be executed by the user. All the other routines are in a subfolder that is automatically added to the path.
